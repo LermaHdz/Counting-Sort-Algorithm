@@ -1,0 +1,10 @@
+C:\Users\Gerar\source\repos\CountingSort\CountingSort\bin\Debug\CountingSort.exe.config
+C:\Users\Gerar\source\repos\CountingSort\CountingSort\bin\Debug\CountingSort.exe
+C:\Users\Gerar\source\repos\CountingSort\CountingSort\bin\Debug\CountingSort.pdb
+C:\Users\Gerar\source\repos\CountingSort\CountingSort\obj\Debug\CountingSort.csprojAssemblyReference.cache
+C:\Users\Gerar\source\repos\CountingSort\CountingSort\obj\Debug\CountingSort.Form1.resources
+C:\Users\Gerar\source\repos\CountingSort\CountingSort\obj\Debug\CountingSort.Properties.Resources.resources
+C:\Users\Gerar\source\repos\CountingSort\CountingSort\obj\Debug\CountingSort.csproj.GenerateResource.cache
+C:\Users\Gerar\source\repos\CountingSort\CountingSort\obj\Debug\CountingSort.csproj.CoreCompileInputs.cache
+C:\Users\Gerar\source\repos\CountingSort\CountingSort\obj\Debug\CountingSort.exe
+C:\Users\Gerar\source\repos\CountingSort\CountingSort\obj\Debug\CountingSort.pdb
